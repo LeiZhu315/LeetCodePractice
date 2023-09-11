@@ -1,2 +1,2 @@
 # LeetCodePractice
-Daily LeetCode practice solutions share
+Daily LeetCode practice (Python) solutions share
